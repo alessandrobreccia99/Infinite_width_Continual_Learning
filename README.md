@@ -1,7 +1,6 @@
 # Master Thesis in Physics of Data, University of Padua & ETH Zurich 
 ![image](https://github.com/user-attachments/assets/8cea1cf4-f75a-47c9-be73-a7087f6a4a50 ){width=250}
-![image](https://github.com/user-attachments/assets/791131d6-e0a1-4c3e-b044-6b56c6df4ade ){width=250}
-<img src="[https://github.com/favicon.ico](https://github.com/user-attachments/assets/8cea1cf4-f75a-47c9-be73-a7087f6a4a50)" width="48">
+![image](https://github.com/user-attachments/assets/791131d6-e0a1-4c3e-b044-6b56c6df4ade ){width=250} with <img src="[https://github.com/user-attachments/assets/791131d6-e0a1-4c3e-b044-6b56c6df4ade)" width="48">
 
 ## Continual Learning 
 Continual Learning is a specific framework of **machine learning** in which *multiple tasks* are fed to the network in different training processes.
