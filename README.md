@@ -1,5 +1,5 @@
 # Master Thesis in Physics of Data, University of Padua & ETH Zurich 
-![image, width=100](https://github.com/user-attachments/assets/8cea1cf4-f75a-47c9-be73-a7087f6a4a50 ){width=250}
+![image, width=10](https://github.com/user-attachments/assets/8cea1cf4-f75a-47c9-be73-a7087f6a4a50 ){width=250}
 <img src="[https://github.com/user-attachments/assets/791131d6-e0a1-4c3e-b044-6b56c6df4ade)" width="48">
 
 ## Continual Learning 
