@@ -1,9 +1,12 @@
-# Continual Learning 
+# Master Thesis in Physics of Data, University of Padua & ETH Zurich ![image](https://github.com/user-attachments/assets/8cea1cf4-f75a-47c9-be73-a7087f6a4a50)
+![image](https://github.com/user-attachments/assets/791131d6-e0a1-4c3e-b044-6b56c6df4ade)
+
+## Continual Learning 
 Continual Learning is a specific framework of **machine learning** in which *multiple tasks* are fed to the network in different training processes.
 The objective is to obtain good perfomances on all tasks. The main issue is the so called **catastrophic forgetting**, the phenomenon due to which old tasks performances 
 decreses as new tasks are trained. 
 
-# Infinite Width Limit 
+## Infinite Width Limit 
 To characterize the network training dynamics, in order to address the cause of forgetting, we inspected a specific setting that allows us to pass from a stochastic high-dimensional 
 Markovian process to a lower-dimensional, non-Markovian process. This is the **infinite width limit** in which a network, parametrized by vector $\boldsymbol{\theta}=\{W^0,...,W^L\}$
 with depth L, has the number of hidden neurons per layer equal to N, that is taken to infinity.
