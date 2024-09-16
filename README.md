@@ -12,7 +12,7 @@ with depth L, has the number of hidden neurons per layer equal to N, that is tak
 The Neural Tangent Parametrization (NTP) does not allow the NTK to grow and dynamically adapt to data, thus we do not have feature learning.
 
 ## MUP
-In the Maximum Update Parametrization ($\mu$P) we scale the output with factor $\frac{1}{\gamma}$ and set the learning rate $\eta$ to $\gamma^2$. Using a dynamical mean field
+In the Maximum Update Parametrization ( $\mu$ P) we scale the output with factor $\frac{1}{\gamma}$ and set the learning rate $\eta$ to $\gamma^2$. Using a dynamical mean field
 theory approach we can obtain the update equation ruling the evolution of fields belonging to each task at any time in any training. 
 
 # Results
