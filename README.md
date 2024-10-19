@@ -19,8 +19,8 @@ theory approach we can obtain the update equation ruling the evolution of fields
 
 # Results
 
-### Distributions for 6 tasks
-![08163c56-149d-41e8-ac95-cb772d098873](https://github.com/user-attachments/assets/cbefc0ed-a10a-4dc7-be2e-638ddfc48247)
+### Distributions of pre-activations for 6 tasks at end training
+![7a56c29d-9fad-4461-9895-389feab2823c](https://github.com/user-attachments/assets/86056fae-3261-48fe-aebd-8c6c5f139de7)
 
 ### Evolution of $\Phi_{12}$ kernel
 ![2cbda33a-0c61-4cb1-9b83-f74a0cb294e4](https://github.com/user-attachments/assets/bfb2aa96-9321-4f54-9908-9020958dc8a0)
