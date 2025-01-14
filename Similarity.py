@@ -7,12 +7,13 @@ import numpy as np
 
 gammas = [0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1,1.2,1.4]
 percents = [0.5]
+widths = [8,16,32,64,128,256,512,1024,2048,4096]
+
 
 colors = ['blue', 'darkorange','green','red','purple','brown','pink', 'gray', 'olive', 'cyan' , 'darkgreen']
 epochs = 200
 n_tasks = 1
 L = 0
-widths = [8,16,32,64,128,256,512,1024,2048,4096]
 device = 'mps'
 gen = torch.Generator(device=device)
 gen.manual_seed(123)
